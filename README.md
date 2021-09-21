@@ -1,2 +1,2 @@
-# stt
-simple open-source STT library in python
+# tts
+simple open-source TTS library in python
